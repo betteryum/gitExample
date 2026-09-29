@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,yli2955,Li,Youming
 employee,rktorres,Torres,Ryan
